@@ -1,6 +1,6 @@
 import { ImWhatsapp, ImBehance, ImLinkedin2 } from "react-icons/im";
 import Link from "next/link";
-import Newslatter from "./_child/Newslatter";
+import Newslatter from "./child/Newslatter";
 
 const Footer = () => {
 

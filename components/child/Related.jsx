@@ -1,5 +1,5 @@
 import Link from "next/link"
-import Author from "@/components/_child/Author"
+import Author from "@/components/child/Author"
 import Image from "next/image"
 import fetcher from "@/lib/fetcher"
 import Spinner from "./Spinner"

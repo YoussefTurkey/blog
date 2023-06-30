@@ -1,10 +1,10 @@
 import {Swiper, SwiperSlide} from "swiper/react"
 import Link from "next/link"
-import Author from "./_child/author"
+import Author from "./child/author"
 import Image from "next/image"
 import fetcher from '@/lib/fetcher';
-import Spinner from './_child/Spinner';
-import Error from './_child/Error';
+import Spinner from './child/Spinner';
+import Error from './child/Error';
 
 const Section3 = () => {
 

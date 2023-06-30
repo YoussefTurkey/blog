@@ -1,9 +1,9 @@
 import Image from 'next/image'
-import Author from '@/components/_child/Author'
+import Author from '@/components/child/Author'
 import Link from 'next/link'
 import fetcher from '@/lib/fetcher';
-import Spinner from './_child/Spinner';
-import Error from './_child/Error';
+import Spinner from './child/Spinner';
+import Error from './child/Error';
 
 // Import Swiper React components
 import { Swiper, SwiperSlide } from 'swiper/react';

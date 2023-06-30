@@ -1,11 +1,11 @@
 import Format from "@/layout/format"
-import Author from "@/components/_child/Author"
+import Author from "@/components/child/Author"
 import Image from "next/image"
-import Related from "@/components/_child/Related"
+import Related from "@/components/child/Related"
 import getPost from '@/lib/helper'
 import fetcher from "@/lib/fetcher"
-import Spinner from "@/components/_child/Spinner"
-import Error from "@/components/_child/Error"
+import Spinner from "@/components/child/Spinner"
+import Error from "@/components/child/Error"
 import { useRouter } from "next/router"
 import { SWRConfig } from "swr"
 
